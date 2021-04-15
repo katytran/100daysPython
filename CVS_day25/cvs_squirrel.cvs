@@ -1,0 +1,97 @@
+,Fur Color,Count
+0,Gray,"X                                             2473
+Y                                             2473
+Unique Squirrel ID                            2473
+Hectare                                       2473
+Shift                                         2473
+Date                                          2473
+Hectare Squirrel Number                       2473
+Age                                           2383
+Primary Fur Color                             2473
+Highlight Fur Color                           1578
+Combination of Primary and Highlight Color    2473
+Color notes                                    140
+Location                                      2434
+Above Ground Sighter Measurement              2392
+Specific Location                              388
+Running                                       2473
+Chasing                                       2473
+Climbing                                      2473
+Eating                                        2473
+Foraging                                      2473
+Other Activities                               360
+Kuks                                          2473
+Quaas                                         2473
+Moans                                         2473
+Tail flags                                    2473
+Tail twitches                                 2473
+Approaches                                    2473
+Indifferent                                   2473
+Runs from                                     2473
+Other Interactions                             196
+Lat/Long                                      2473
+dtype: int64"
+1,Cinnamon,"X                                             392
+Y                                             392
+Unique Squirrel ID                            392
+Hectare                                       392
+Shift                                         392
+Date                                          392
+Hectare Squirrel Number                       392
+Age                                           384
+Primary Fur Color                             392
+Highlight Fur Color                           330
+Combination of Primary and Highlight Color    392
+Color notes                                    30
+Location                                      382
+Above Ground Sighter Measurement              381
+Specific Location                              59
+Running                                       392
+Chasing                                       392
+Climbing                                      392
+Eating                                        392
+Foraging                                      392
+Other Activities                               55
+Kuks                                          392
+Quaas                                         392
+Moans                                         392
+Tail flags                                    392
+Tail twitches                                 392
+Approaches                                    392
+Indifferent                                   392
+Runs from                                     392
+Other Interactions                             33
+Lat/Long                                      392
+dtype: int64"
+2,Black,"X                                             103
+Y                                             103
+Unique Squirrel ID                            103
+Hectare                                       103
+Shift                                         103
+Date                                          103
+Hectare Squirrel Number                       103
+Age                                           100
+Primary Fur Color                             103
+Highlight Fur Color                            29
+Combination of Primary and Highlight Color    103
+Color notes                                     5
+Location                                      103
+Above Ground Sighter Measurement              102
+Specific Location                              15
+Running                                       103
+Chasing                                       103
+Climbing                                      103
+Eating                                        103
+Foraging                                      103
+Other Activities                               11
+Kuks                                          103
+Quaas                                         103
+Moans                                         103
+Tail flags                                    103
+Tail twitches                                 103
+Approaches                                    103
+Indifferent                                   103
+Runs from                                     103
+Other Interactions                              8
+Lat/Long                                      103
+dtype: int64"
