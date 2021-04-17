@@ -6,6 +6,8 @@ def get_quote():
 
     #Write your code here.
     response = requests.get("https://api.kanye.rest")
+    #if response is not 200
+    response.raise_for_status()
     if(response.status_code == 200):
        quote = response.json()["quote"]
        canvas.itemconfig(quote_text, text=quote)
